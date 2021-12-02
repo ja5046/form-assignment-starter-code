@@ -1,0 +1,34 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.messages {
+  display: flex;
+  flex-wrap: wrap
+  justify-content: center;
+}
+.message-container {
+  display: flex;
+  width: 20%;
+  margin: 2.5%;
+}
+
+.form-group.button-group {
+  margin: 0 auto 0 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
